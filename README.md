@@ -50,7 +50,7 @@ Go to `http://localhost:3000` to view the app.
 - [React.JS](https://reactjs.org/) -Frontend library used in the project.
 - [Bootstrap](https://getbootstrap.com/) - Used for basic styling.
 
-## Authors
+## Author
 
 - **Koushith_Amin**
 
