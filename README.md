@@ -2,7 +2,7 @@
 
 A loan interest calculator made with React.
 
-### Live here: https://practical-kilby-cd26bb.netlify.com/
+### Live here: https://loan-calculator-2019-assigment.netlify.com/
 
 ## Features
 
@@ -50,7 +50,7 @@ Go to `http://localhost:3000` to view the app.
 
 ## Authors
 
-- **Soumya Ranjan Mohanty** - [geekysrm](https://github.com/geekysrm)
+- **Koushith_Amin** - (https://github.com/Koushith)
 
 ## License
 
