@@ -2,7 +2,7 @@
 
 A loan interest calculator made with React.
 
-### Live here: http://react-loan-interest-calculator.netlify.com
+### Live here: https://practical-kilby-cd26bb.netlify.com/
 
 ## Features
 
