@@ -50,6 +50,13 @@ Go to `http://localhost:3000` to view the app.
 
 ## Authors
 
+- **Koushith_Amin**
+
+## Social links
+
+- **GitHub** - (https://github.com/Koushith)
+- **Personal Website** - (https://www.koushith.com)
+- **LinkedIN** - (https://www.linkedin.com/in/koushith-b-r-663787146/)
 - **Koushith_Amin** - (https://github.com/Koushith)
 
 ## License
