@@ -57,7 +57,7 @@ Go to `http://localhost:3000` to view the app.
 - **GitHub** - (https://github.com/Koushith)
 - **Personal Website** - (https://www.koushith.com)
 - **LinkedIN** - (https://www.linkedin.com/in/koushith-b-r-663787146/)
-- **Youtube** - (https://www.youtube.com/channel/UCROHa5WrwCsn0T8ssjzjXcw/about)
+- **Daily UI Designs** - (https://www.youtube.com/channel/UCROHa5WrwCsn0T8ssjzjXcw/about)
 
 ## License
 
