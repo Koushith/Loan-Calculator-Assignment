@@ -30,8 +30,10 @@ _Node.JS and npm must be installed. Download and install them from [here](https:
 Follow these steps to run this project in your local computer.
 
 ```
-$ https://github.com/geekysrm/react-loan-interest-calculator.git
-$ cd react-loan-interest-calculator
+Clone this repo or Download it.
+
+$ https://github.com/Koushith/Loan-Calculator-Assignment.git
+$ cd Loan-Calculator-Assignment.git
 $ npm i
 ```
 
